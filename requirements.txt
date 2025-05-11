@@ -1,5 +1,7 @@
 streamlit
 matplotlib
+fpdf
+
 numpy
 pandas
 reportlab
