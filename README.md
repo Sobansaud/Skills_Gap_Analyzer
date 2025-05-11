@@ -1,4 +1,4 @@
-Streamlit Link: {}
+Streamlit Link: {"https://skiils-gap-analyzer-by-sobansaud.streamlit.app/"}
 
 👨‍💻 Made with ❤️ by Muhammad Soban Saud
 
